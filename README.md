@@ -1,6 +1,6 @@
 # Hello, World! -- My name is Tony! 
 
-* I'm a Linux/Open Source Advocate.
+* I'm a Linux/Open Source Fan and Advocate!
 * I enjoy learning new technologies, problem solving and working with the cloud, both public and private.
 * I get excited about logistics, process improvement, creating tools to improve day-to-day operations for humans and machines, as well creating documentation.
 * I am striving to grow as a well rounded Engineer, dividing my time between Systems Engineering and Architecture, Software Development, and Operations work.
